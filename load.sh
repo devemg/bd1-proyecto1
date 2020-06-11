@@ -1,1 +1,1 @@
-sqlldr emely/FywNWz3B control=test.ctl log=test.log bad=test.bad data=test.csv
+sqlldr emely/FywNWz3B control=[BD1]ArchivoControl.ctl log=bsdata.log bad=bsdata.bad data=BIG_SMOKE_DATA.csv
