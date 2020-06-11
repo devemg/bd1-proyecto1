@@ -1,1 +1,1 @@
-sqlldr emely/FywNWz3B control='[BD1]ArchivoControl.ctl' log='bsdata.log' bad='bsdata.bad' discard='bsdata.dsc' data='BIG_SMOKE_DATA.csv' CHARACTERSET=utf8
+sqlldr emely/FywNWz3B control='[BD1]ArchivoControl.ctl' log='bsdata.log' bad='bsdata.bad' discard='bsdata.dsc' data='BIG_SMOKE_DATA.csv'
